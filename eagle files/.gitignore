@@ -1,0 +1,7 @@
+# Mac OS X ds store data
+*.DS_Store
+
+# Some EAGLE stuff: 
+*.s#*
+*.b#*
+
